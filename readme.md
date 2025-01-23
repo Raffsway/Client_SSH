@@ -1,9 +1,5 @@
 # README - SSH Client
 
-## Descrição
-
-Este script Python cria um cliente SSH persistente com um terminal interativo, permitindo a comunicação com um servidor remoto via SSH. O terminal permite enviar e receber comandos de forma interativa e segura, utilizando o `paramiko` para a conexão SSH e `msvcrt` para leitura interativa do teclado.
-
 ## Funcionalidades
 
 - Conexão SSH segura com o servidor remoto.
